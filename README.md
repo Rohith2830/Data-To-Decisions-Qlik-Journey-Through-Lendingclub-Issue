@@ -12,6 +12,8 @@ Average Loan Amount – State Wise,
 Grade Wise – Count Of Members, 
 Verification Status**
 # Dashboard-
-Dashboard 1: Average Loan Amount Analysis,
-Dashboard 2: Count Analysis
+### Dashboard 1: Average Loan Amount Analysis
+**https://w99qpfzrgtlmp8x.sg.qlikcloud.com/single/?appid=c179db93-5059-4400-b3c6-08bc656c40d7&sheet=AEZPh&theme=horizon&opt=ctxmenu,currsel**
+### Dashboard 2: Count Analysis
+**https://w99qpfzrgtlmp8x.sg.qlikcloud.com/single/?appid=c179db93-5059-4400-b3c6-08bc656c40d7&sheet=bLJJha&theme=horizon&opt=ctxmenu,currsel**
 ### DATASET LINK - **https://drive.google.com/drive/folders/15mxiEnMosBok0Oi_0ENIFo66tmZ86lG8?usp=drive_link**
