@@ -11,7 +11,7 @@ Total Number Of Loan Account
 Average Loan Amount – State Wise 
 Grade Wise – Count Of Members 
 Verification Status**
-# Dashboard--
+# Dashboard-
 Dashboard 1: Average Loan Amount Analysis
 Dashboard 2: Count Analysis
 ### DARASET LINK - **https://drive.google.com/drive/folders/15mxiEnMosBok0Oi_0ENIFo66tmZ86lG8?usp=drive_link**
